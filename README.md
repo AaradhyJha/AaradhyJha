@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/aad405ea30db68cf03a0d690533fcfdbd4d2d628d1e7e308dceb95500ca8e6ac/68747470733a2f2f692e726564642e69742f736e353162726e707a367962312e676966)
 <h1 align="center">Hi 👋, I'm Aaradhya Jha</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaradhyjha&label=Profile%20views&color=0e75b6&style=flat" alt="aaradhyjha" /> </p>
 
