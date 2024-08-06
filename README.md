@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **AR Education**
 
-- 🌱 I’m currently learning **Cloud, AIML**
+- 🌱 I’m currently learning **Cloud, AWS Tools**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity Engine**
 
 - 📫 How to reach me **aaradhyajha17@gmail.com**
 
