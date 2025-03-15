@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/aad405ea30db68cf03a0d690533fcfdbd4d2d628d1e7e308dceb95500ca8e6ac/68747470733a2f2f692e726564642e69742f736e353162726e707a367962312e676966)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a731ff50-b460-43b8-9360-34c7cb25335e/dgdvupb-55026c55-3162-4394-ba79-dd46ba0bfba7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MzFmZjUwLWI0NjAtNDNiOC05MzYwLTM0YzdjYjI1MzM1ZVwvZGdkdnVwYi01NTAyNmM1NS0zMTYyLTQzOTQtYmE3OS1kZDQ2YmEwYmZiYTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J4cDWUqqk9vgOFYgRshkM_QSK4NfuT3YKipDP0Af6qE)
 <h1 align="center">Hi 👋, I'm Aaradhya Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
